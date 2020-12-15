@@ -32,7 +32,7 @@ td, th {
 .search {
     height: 25px;
     float: right;
-    background-color: ghostwhite;
+    background-color: darkgray;
     border-radius: 5px;
     background-image: url("./svg/search.png");
     background-repeat: no-repeat;
@@ -73,5 +73,9 @@ a {
     text-decoration: none;
     color: whitesmoke;
 }
-
+.minus {
+    height: 15px;
+    width: 15px;
+    margin-right: 10px;
+}
 
